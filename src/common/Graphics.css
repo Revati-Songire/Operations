@@ -1,0 +1,31 @@
+.input1{
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    margin-top: 40px;
+    padding: 5px;
+}
+
+.input2{
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+select {
+    height: 30px;
+    width: 60px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+button{
+    height: 30px;
+    width: 100px;
+    font-size: medium;
+    padding: 5px;
+    margin-top: 10px;
+}
